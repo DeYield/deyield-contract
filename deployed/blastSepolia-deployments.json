@@ -1,0 +1,101 @@
+{
+  "0xA7adb2C41b5894436ba4682c8A891E4AB9A5D9EF": {
+    "contract": "0xA7adb2C41b5894436ba4682c8A891E4AB9A5D9EF",
+    "args": [
+      "USDT",
+      "USDT",
+      6
+    ]
+  },
+  "0x20363339602742f2F2C6470D211E13B10467ffBD": {
+    "name": "TestERC20",
+    "contract": "0x20363339602742f2F2C6470D211E13B10467ffBD",
+    "args": [
+      "USDC",
+      "USDC",
+      6
+    ]
+  },
+  "0x3bCF6DD7aeBE5DcE582eD9fD666F0B06bC5754B7": {
+    "name": "TestERC20",
+    "contract": "0x3bCF6DD7aeBE5DcE582eD9fD666F0B06bC5754B7",
+    "args": [
+      "DAI",
+      "DAI",
+      18
+    ]
+  },
+  "0xA59886AE43A7f63725970734e7b7E9117861b788": {
+    "name": "MockOracle",
+    "contract": "0xA59886AE43A7f63725970734e7b7E9117861b788",
+    "args": []
+  },
+  "0x4a454c8a55d15594A6a45d2869Ca1E46bec6d274": {
+    "name": "MockOracle",
+    "contract": "0x4a454c8a55d15594A6a45d2869Ca1E46bec6d274",
+    "args": []
+  },
+  "0x3AAe984090fC5ae0828c219A5ae89077ba0eB02A": {
+    "name": "DeYieldAddressesProvider",
+    "contract": "0x3AAe984090fC5ae0828c219A5ae89077ba0eB02A",
+    "args": []
+  },
+  "0xFe513668Bd980165a67C53094B65CF47E111bb6B": {
+    "name": "DeYieldOracle",
+    "contract": "0xFe513668Bd980165a67C53094B65CF47E111bb6B",
+    "args": [
+      "0x4a454c8a55d15594A6a45d2869Ca1E46bec6d274"
+    ]
+  },
+  "0xa51aA1F3e455Feeff579fBB22E1A140B01fE385F": {
+    "name": "XUSDCoin",
+    "contract": "0xa51aA1F3e455Feeff579fBB22E1A140B01fE385F",
+    "args": [
+      "0x3AAe984090fC5ae0828c219A5ae89077ba0eB02A"
+    ]
+  },
+  "0xAdE5fC61B6eDA1D177e705046B73334B63c76D78": {
+    "name": "YEETToken",
+    "contract": "0xAdE5fC61B6eDA1D177e705046B73334B63c76D78",
+    "args": [
+      "0x3AAe984090fC5ae0828c219A5ae89077ba0eB02A"
+    ]
+  },
+  "0x6baAEb72c14D9DC63b786c1Be4c46CCeA28Bb409": {
+    "name": "DeYieldVault",
+    "contract": "0x6baAEb72c14D9DC63b786c1Be4c46CCeA28Bb409",
+    "args": []
+  },
+  "0x6A4499Fd1C1f5C2F932BaaF4683342b368B13f79": {
+    "name": "Faucet",
+    "contract": "0x6A4499Fd1C1f5C2F932BaaF4683342b368B13f79",
+    "args": [
+      [
+        "0x3bCF6DD7aeBE5DcE582eD9fD666F0B06bC5754B7",
+        "0x20363339602742f2F2C6470D211E13B10467ffBD",
+        "0xA7adb2C41b5894436ba4682c8A891E4AB9A5D9EF"
+      ],
+      [
+        "10000000000000000000",
+        "10000000",
+        "10000000"
+      ]
+    ]
+  },
+  "0x63C2b75507A9703df6EA7AEF2016565aB28a337E": {
+    "name": "Faucet",
+    "contract": "0x63C2b75507A9703df6EA7AEF2016565aB28a337E",
+    "args": [
+      [
+        "0x3bCF6DD7aeBE5DcE582eD9fD666F0B06bC5754B7",
+        "0x20363339602742f2F2C6470D211E13B10467ffBD",
+        "0xA7adb2C41b5894436ba4682c8A891E4AB9A5D9EF"
+      ],
+      [
+        "10000000000000000000",
+        "10000000",
+        "10000000"
+      ]
+    ]
+  }
+}
